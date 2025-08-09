@@ -11365,7 +11365,7 @@ i[class*=fa-] {
     font-weight: 400;
     font-display: swap;
     src: url(/wp-content/themes/torofilm/public/css/../fonts/fa-brands-400.eot);
-    src: url(/wp-content/themes/torofilm/public/css/../fonts/fa-brands-400.eot#1752684598) format("embedded-opentype"),url(/wp-content/themes/torofilm/public/css/../fonts/fa-brands-400.woff2) format("woff2"),url(/wp-content/themes/torofilm/public/css/../fonts/fa-brands-400.woff) format("woff"),url(/wp-content/themes/torofilm/public/css/../fonts/fa-brands-400.ttf) format("truetype"),url(/wp-content/themes/torofilm/public/css/../fonts/fa-brands-400.svg#fontawesome) format("svg")
+    src: url(/wp-content/themes/torofilm/public/css/../fonts/fa-brands-400.eot#1752684598) format("embedded-opentype"),url(https://cdn.jsdelivr.net/gh/NAUGHTY-BRAND/maxx@main/fa-brands-400.woff2) format("woff2"),url(https://cdn.jsdelivr.net/gh/NAUGHTY-BRAND/maxx@main/fa-brands-400.woff) format("woff"),url(https://cdn.jsdelivr.net/gh/NAUGHTY-BRAND/maxx@main/fa-brands-400.ttf) format("truetype"),url(/wp-content/themes/torofilm/public/css/../fonts/fa-brands-400.svg#fontawesome) format("svg")
 }
 
 @font-face {
@@ -11374,7 +11374,7 @@ i[class*=fa-] {
     font-weight: 400;
     font-display: swap;
     src: url(/wp-content/themes/torofilm/public/css/../fonts/fa-regular-400.eot);
-    src: url(/wp-content/themes/torofilm/public/css/../fonts/fa-regular-400.eot#1752684598) format("embedded-opentype"),url(/wp-content/themes/torofilm/public/css/../fonts/fa-regular-400.woff2) format("woff2"),url(/wp-content/themes/torofilm/public/css/../fonts/fa-regular-400.woff) format("woff"),url(/wp-content/themes/torofilm/public/css/../fonts/fa-regular-400.ttf) format("truetype"),url(/wp-content/themes/torofilm/public/css/../fonts/fa-regular-400.svg#fontawesome) format("svg")
+    src: url(/wp-content/themes/torofilm/public/css/../fonts/fa-regular-400.eot#1752684598) format("embedded-opentype"),url(https://cdn.jsdelivr.net/gh/NAUGHTY-BRAND/maxx@main/fa-regular-400.woff2) format("woff2"),url(https://cdn.jsdelivr.net/gh/NAUGHTY-BRAND/maxx@main/fa-regular-400.woff) format("woff"),url(https://cdn.jsdelivr.net/gh/NAUGHTY-BRAND/maxx@main/fa-regular-400.ttf) format("truetype"),url(/wp-content/themes/torofilm/public/css/../fonts/fa-regular-400.svg#fontawesome) format("svg")
 }
 
 @font-face {
@@ -11383,7 +11383,7 @@ i[class*=fa-] {
     font-weight: 900;
     font-display: swap;
     src: url(/wp-content/themes/torofilm/public/css/../fonts/fa-solid-900.eot);
-    src: url(/wp-content/themes/torofilm/public/css/../fonts/fa-solid-900.eot#1752684598) format("embedded-opentype"),url(/wp-content/themes/torofilm/public/css/../fonts/fa-solid-900.woff2) format("woff2"),url(/wp-content/themes/torofilm/public/css/../fonts/fa-solid-900.woff) format("woff"),url(/wp-content/themes/torofilm/public/css/../fonts/fa-solid-900.ttf) format("truetype"),url(/wp-content/themes/torofilm/public/css/../fonts/fa-solid-900.svg#fontawesome) format("svg")
+    src: url(/wp-content/themes/torofilm/public/css/../fonts/fa-solid-900.eot#1752684598) format("embedded-opentype"),url(https://cdn.jsdelivr.net/gh/NAUGHTY-BRAND/maxx@main/fa-solid-900.woff2) format("woff2"),url(https://cdn.jsdelivr.net/gh/NAUGHTY-BRAND/maxx@main/fa-solid-900.woff) format("woff"),url(https://cdn.jsdelivr.net/gh/NAUGHTY-BRAND/maxx@main/fa-solid-900.ttf) format("truetype"),url(/wp-content/themes/torofilm/public/css/../fonts/fa-solid-900.svg#fontawesome) format("svg")
 }
 
 .owl-carousel,.owl-carousel .owl-item {
