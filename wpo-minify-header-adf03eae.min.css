@@ -5826,7 +5826,7 @@ span[class*="type-"] {
     font-style: normal;
     font-display: swap;
     font-weight: 400;
-    src: local("Work Sans"),local(WorkSans-Regular),url(/wp-content/themes/torofilm/public/css/../fonts/work-sans-v4-latin-regular.woff2) format("woff2"),url(/wp-content/themes/torofilm/public/css/../fonts/work-sans-v4-latin-regular.woff) format("woff")
+    src: local("Work Sans"),local(WorkSans-Regular),url(https://cdn.jsdelivr.net/gh/NAUGHTY-BRAND/maxx@main/work-sans-v4-latin-regular.woff2) format("woff2"),url(https://cdn.jsdelivr.net/gh/NAUGHTY-BRAND/maxx@main/work-sans-v4-latin-regular.woff) format("woff")
 }
 
 @font-face {
@@ -5834,7 +5834,7 @@ span[class*="type-"] {
     font-style: normal;
     font-display: swap;
     font-weight: 700;
-    src: local("Work Sans Bold"),local(WorkSans-Bold),url(/wp-content/themes/torofilm/public/css/../fonts/work-sans-v4-latin-700.woff2) format("woff2"),url(/wp-content/themes/torofilm/public/css/../fonts/work-sans-v4-latin-700.woff) format("woff")
+    src: local("Work Sans Bold"),local(WorkSans-Bold),url(https://cdn.jsdelivr.net/gh/NAUGHTY-BRAND/maxx@main/work-sans-v4-latin-700.woff2) format("woff2"),url(https://cdn.jsdelivr.net/gh/NAUGHTY-BRAND/maxx@main/work-sans-v4-latin-700.woff) format("woff")
 }
 
 /*! Font Awesome Free 5.8.2 by @fontawesome - https://fontawesome.com * License - https://fontawesome.com/license/free (Icons:CC BY 4.0, Fonts:SIL OFL 1.1, Code:MIT License) */
